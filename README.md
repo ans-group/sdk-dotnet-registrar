@@ -18,7 +18,7 @@ Next, we'll obtain an instance of IDomainOperations to perform operations on dom
 var domainOps = client.DomainOperations();
 ```
 
-Finally, we'll retrieve all virtual machines using the instance of `IDomainOperations`:
+Finally, we'll retrieve all domains using the instance of `IDomainOperations`:
 
 ```csharp
 IList<Domain> domains = await domainOps.GetDomainsAsync();
