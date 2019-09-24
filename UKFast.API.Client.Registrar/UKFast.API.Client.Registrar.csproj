@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>UKFast</Authors>
+    <Description>Client for interacting with UKFast Registrar service</Description>
+    <PackageProjectUrl>https://github.com/ukfast/sdk-dotnet-registrar</PackageProjectUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="UKFast.API.Client.Core" Version="1.0.3" />
+  </ItemGroup>
+
+</Project>

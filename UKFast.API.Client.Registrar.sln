@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UKFast.API.Client.Registrar", "UKFast.API.Client.Registrar\UKFast.API.Client.Registrar.csproj", "{92E68E6A-DFA7-4FAD-A57D-0F414AFC33D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UKFast.API.Client.Registrar.Tests", "UKFast.API.Client.Registrar.Tests\UKFast.API.Client.Registrar.Tests.csproj", "{7260B06E-621E-42DB-AFF0-9FEDB79EFE22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92E68E6A-DFA7-4FAD-A57D-0F414AFC33D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E68E6A-DFA7-4FAD-A57D-0F414AFC33D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92E68E6A-DFA7-4FAD-A57D-0F414AFC33D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92E68E6A-DFA7-4FAD-A57D-0F414AFC33D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7260B06E-621E-42DB-AFF0-9FEDB79EFE22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7260B06E-621E-42DB-AFF0-9FEDB79EFE22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7260B06E-621E-42DB-AFF0-9FEDB79EFE22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7260B06E-621E-42DB-AFF0-9FEDB79EFE22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B528681-DFEA-45AE-8CEE-2A58477FF761}
+	EndGlobalSection
+EndGlobal
